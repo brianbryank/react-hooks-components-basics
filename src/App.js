@@ -10,5 +10,10 @@ function App() {
     </div>
   );
 }
+// returns these DOM elements:
+// <div>
+//  <article />
+// </div>
+
 
 export default App;
